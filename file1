@@ -1,0 +1,15 @@
+total 5
+-rw-r--r-- 1 AzureAD+sharathchandra 4096  0 Nov 21 19:59 file1
+-rw-r--r-- 1 AzureAD+sharathchandra 4096  0 Nov 21 19:50 mkdir
+drwxr-xr-x 1 AzureAD+sharathchandra 4096  0 Nov 21 19:48 zero/
+-rw-r--r-- 1 AzureAD+sharathchandra 4096  0 Nov 21 19:48 zz11222
+-rw-r--r-- 1 AzureAD+sharathchandra 4096  0 Nov 21 19:48 r
+drwxr-xr-x 1 AzureAD+sharathchandra 4096  0 Nov 21 19:15 chandra1/
+drwxr-xr-x 1 AzureAD+sharathchandra 4096  0 Nov 17 12:58 devops/
+drwxr-xr-x 1 AzureAD+sharathchandra 4096  0 Nov 17 12:56 noname1/
+drwxr-xr-x 1 AzureAD+sharathchandra 4096  0 Nov 12 21:27 file5/
+drwxr-xr-x 1 AzureAD+sharathchandra 4096  0 Nov 12 21:27 file3/
+-rw-r--r-- 1 AzureAD+sharathchandra 4096 21 Nov 12 21:26 sharath1
+-rw-r--r-- 1 AzureAD+sharathchandra 4096  0 Nov 12 21:19 sharath3
+-rw-r--r-- 1 AzureAD+sharathchandra 4096  0 Nov 12 21:19 sharath2
+-rw-r--r-- 1 AzureAD+sharathchandra 4096  0 Nov  9 08:27 sharath
